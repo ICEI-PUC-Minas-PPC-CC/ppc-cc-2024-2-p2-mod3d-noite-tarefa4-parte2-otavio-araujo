@@ -14,6 +14,9 @@
  
 ## O VIDEO DA QUEDA DA BOLA ESTÁ NA PASTA SRC!!!
 
+<li><a href="src/Queda_bola.mp4">VIDEO!!</a></li>
+
+
 ## ARQUIVO BLENDER ESTÁ NO DRIVE, POIS NÃO COUBE NO GITHUB DEVIDO AO TAMANHO;
 
 
