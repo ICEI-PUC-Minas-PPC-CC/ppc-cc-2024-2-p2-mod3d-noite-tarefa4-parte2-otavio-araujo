@@ -1,4 +1,4 @@
-# Bola de Pelo Caindo
+# Bola de Pelo Caindo - REFERENTE A PRIMEIRA PARTE FEITA EM SALA DE AULA 
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem 3D`
